@@ -30,7 +30,7 @@
        2 PIC X(31) USAGE DISPLAY
            VALUE 'XML Converter Is Terminating...'.
       * *************************************************************
-      *             Vendor Program Container Definitions
+      *             Vendor Program Container Definition
       * *************************************************************
        1 DFH-BODY-CONTAINER PIC X(16) VALUE 'DFH-BODY'.
        1 DFH-DATA-CONTAINER PIC X(16) VALUE 'DFH-DATA'.
